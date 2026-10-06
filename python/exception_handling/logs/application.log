@@ -1,0 +1,6 @@
+2026-10-06 06:47:22,078 -INFO - Attempting to divide 10 by 2
+2026-10-06 06:47:22,080 -INFO - Division successful. Result: 5.0
+2026-10-06 06:47:22,080 -INFO - Attempting to divide 10 by 0
+2026-10-06 06:47:22,081 -ERROR - Failed to divide! Division by zero occurred
+2026-10-06 06:47:22,081 -WARNING - Do not set the value of 'b' to 0
+2026-10-06 06:47:22,081 -DEBUG - consider adding input validation before calling divide_numbers()
