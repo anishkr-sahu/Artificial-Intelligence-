@@ -4,3 +4,4 @@ Python from basic to advanced
 3- functions
 4- binary 
 5- oops
+6- virtual environment
